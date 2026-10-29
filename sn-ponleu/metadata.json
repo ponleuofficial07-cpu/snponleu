@@ -1,0 +1,6 @@
+{
+  "name": "SN PONLEU — Personal Digital Hub",
+  "description": "All-in-one personal digital platform for SN Ponleu — ICT Specialist & Creative Designer. Featuring portfolio, working activities, software directory, ICT blog, AI tools & chatbot, services, and secure administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
